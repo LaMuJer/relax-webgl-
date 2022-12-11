@@ -1,9 +1,5 @@
 # Three.js WebGl Particles
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
-
 ``` bash
 # Install dependencies (only the first time)
 npm install
@@ -15,5 +11,6 @@ npm run dev
 npm run build
 
 # Here's Demo
-<a href='http://relax-eight.vercel.app/'>Demo</a>
+http://relax-eight.vercel.app/
+
 ```
