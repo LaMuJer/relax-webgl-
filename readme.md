@@ -1,4 +1,4 @@
-# Three.js Journey
+# Three.js WebGl Particles
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -13,4 +13,7 @@ npm run dev
 
 # Build for production in the dist/ directory
 npm run build
+
+# Here's Demo
+http://relax-eight.vercel.app/
 ```
